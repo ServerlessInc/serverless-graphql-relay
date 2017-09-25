@@ -1,6 +1,6 @@
 # Serverless GraphQL
 
-This starter kit is an opinionated set of tools combined to help you get started building a Serverless application with an GraphQL endpoint and deploy them to production in minutes.
+This starter kit is an opinionated set of tools combined to help you get started building a Serverless application with a GraphQL endpoint and deploy them to production in minutes.
 
 This example uses the following technologies:
 
@@ -21,7 +21,7 @@ npm install -g serverless
 npm install
 ```
 
-Use mocked data (keep in mind due hard-coded data the interface might behave not as expected)
+Use mocked data (keep in mind, due to hard-coded data, the interface might not behave as expected)
 ```
 npm run update-schema
 npm start
